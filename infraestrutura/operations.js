@@ -1,4 +1,4 @@
-const cruds = require('./crud/index')
+const cruds = require('./crud/index');
 
 class Operations {
   constructor(entidade) {

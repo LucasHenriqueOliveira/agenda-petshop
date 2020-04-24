@@ -1,10 +1,10 @@
 class Tabelas {
   init(conexao) {
     this.conexao = conexao
-    this.criaClientes()
-    this.criaPets()
-    this.criaServicos()
-    this.criaAtendimentos()
+    this.criaClientes();
+    this.criaPets();
+    this.criaServicos();
+    this.criaAtendimentos();
 
     console.log('tabelas criadas!')
   }
